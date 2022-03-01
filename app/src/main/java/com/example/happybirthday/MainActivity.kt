@@ -1,5 +1,5 @@
 package com.example.happybirthday
-//Diana zaval
+//Diana Zaval
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
